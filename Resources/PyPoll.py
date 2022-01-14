@@ -5,7 +5,7 @@
 #4. The total number of votes each candidate won
 #5. The winner of the election based on popular vote
 
-import csv
+import csv  
 import os
 #Assign a variable for the file to load and the path
 file_to_load = os.path.join("Resources", "election_results.csv")
