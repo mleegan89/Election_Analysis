@@ -41,6 +41,7 @@ The analysis of the election showed that:
 
 ## Election-Audit Summary
 Going forward, this script could be used for any additional future election audits that need to be conducted. Two things that we would need to address before running this specific script would be the file location of our data and the rows where this data exist. Below are the locations in the code where this would need to be adjusted based on the location and format of new data. 
+
 <img width="305" alt="image" src="https://user-images.githubusercontent.com/96085210/149626743-c60b00be-46b9-49d2-a18d-e91ce1106170.png">
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/96085210/149626748-59cdf865-38fa-4783-8dc3-e4a8a62b38fb.png">
 
